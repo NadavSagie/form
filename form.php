@@ -34,3 +34,4 @@ $mail->Password = $password;
 // הגדרת הנמען והתוכן
 $mail->setFrom('your_email@example.com', 'Your Name');
 $mail.
+?>
